@@ -7,6 +7,6 @@
 2.	סוכריה רעילה, שגורמת להיפוך המקשים
 3.	סוכריה מיוחדת שגורמת לרוחות לברוח ממך, ולא לנסות לתפוס אותך.
 
-https://web-development-environments-2021.github.io/assignment2-goldmand/
+https://web-development-environments-2021.github.io/Assignment2_204649941_205437551/
 	
 
